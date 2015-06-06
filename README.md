@@ -12,7 +12,7 @@ npm install -g grunt-init
 
 To clone the repository and add the template to grunt-init for automated project scaffolding run
 ```
-git clone git@github.com:4Digits/bootstrap_s.git ~/.grunt-init/bootstrap_s
+git clone git@github.com:azhsetiawan/bootstrap_s.git ~/.grunt-init/bootstrap_s
 ```
 
 
@@ -59,6 +59,6 @@ grunt compile
 ```
 grunt
 ```
-In order to monitor file changes in real time without manually refreshing your browser, install [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) for Chrome and run it in your tab.
+In order to monitor file changes in real time without manually refreshing your browser, install [LiveReload Browser Extensions](http://livereload.com/extensions/) and run it in your tab.
 
 ### Enjoy :)
